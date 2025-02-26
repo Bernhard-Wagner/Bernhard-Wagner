@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Bernhard-Wagner
+  With around 24 years of proven experience as a Project- and Safety manager in the field of automotive and electrical engineering, I bring a unique expertise and experience to every project. I have a very broad technical and commercial expertise, which enables me to motivate and manage cross-functional teams. I can carry out a structured  work as Manager for you. My strong problem-solving and decision-making skills, with the ability to adapt to changing project needs are focused on your success.
+- 👀 I’m interested in With around 24 years of proven experience as a Project- and Safety manager in the field of automotive and electrical engineering, I bring a unique expertise and experience to every project. I have a very broad technical and commercial expertise, which enables me to motivate and manage cross-functional teams. I can carry out a structured  work as Manager for you. My strong problem-solving and decision-making skills, with the ability to adapt to changing project needs are focused on your success.
+- 🌱 I’m currently learning Bluetooth Low Energy
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Bernhard-Wagner/Bernhard-Wagner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
